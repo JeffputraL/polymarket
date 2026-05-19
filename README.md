@@ -33,13 +33,13 @@ Developed by Bintang Digital Indonesia
 
 Apps Demo :
 
-User Apps : https://drive.google.com/file/d/1wtQLW_2OsRixjaXWuLZ8V1bkRiATA-6h/view?usp=drive_link
+User Apps : https://bintangdigital.my.id/polymarket/porygon-user v1.1.0.apk
 
 username : user1@polymarket.dev
 
 passwd : User1234!
 
-Admin Apps : https://drive.google.com/file/d/1ZR296fP1PHYON-355QVW0rpp9bsiwjHr/view?usp=drive_link
+Admin Apps : https://dbintangdigital.my.id/polymarket/porygon-admin v1.1.0.apk
 
 Username : admin@polymarket.dev
 
