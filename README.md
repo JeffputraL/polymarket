@@ -33,15 +33,7 @@ Developed by Bintang Digital Indonesia
 
 Apps Demo :
 
-User Apps : https://bintangdigital.my.id/polymarket/porygon-user v1.1.0.apk
-
-username : user1@polymarket.dev
-
-passwd : User1234!
-
-Admin Apps : https://dbintangdigital.my.id/polymarket/porygon-admin v1.1.0.apk
-
-Username : admin@polymarket.dev
+Links : https://bintangdigital.my.id/polymarket/
 
 Fast Respon WhatsApp me : +62813-336-4443
 
