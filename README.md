@@ -32,3 +32,13 @@ If you are interested in owning or customizing this platform for your own busine
 Developer
 
 Developed by Bintang Digital
+
+Apps Demo :
+
+User Apps : https://drive.google.com/file/d/1wtQLW_2OsRixjaXWuLZ8V1bkRiATA-6h/view?usp=drive_link
+username : user1@polymarket.dev
+passwd : User1234!
+
+Admin Apps : https://drive.google.com/file/d/1ZR296fP1PHYON-355QVW0rpp9bsiwjHr/view?usp=drive_link
+Username : admin@polymarket.dev
+Passwd : Admin1234!
